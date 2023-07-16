@@ -1,0 +1,8 @@
+import streamlit as st.
+
+st.set_page_config(page_title-"My Webpage", layout="wide")
+
+st.subheader("Hi, I am John:wave:")
+st.title("An IT Student from PH")
+st.write("Passionate on Writing")
+

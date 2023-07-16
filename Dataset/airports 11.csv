@@ -1,0 +1,81 @@
+3488,KDFW,large_airport,Dallas Fort Worth International Airport,32.896801,-97.038002,607,NA,US,US-TX,Dallas-Fort Worth,yes,KDFW,DFW,DFW,https://www.dfwairport.com/,https://en.wikipedia.org/wiki/Dallas/Fort_Worth_International_Airport,QDF
+3486,KDEN,large_airport,Denver International Airport,39.86169815,-104.6729965,5431,NA,US,US-CO,Denver,yes,KDEN,DEN,DEN,http://www.flydenver.com/,https://en.wikipedia.org/wiki/Denver_International_Airport,"DVX, KVDX"
+3754,KORD,large_airport,Chicago O'Hare International Airport,41.9786,-87.9048,672,NA,US,US-IL,Chicago,yes,KORD,ORD,ORD,https://www.flychicago.com/ohare/home/pages/default.aspx,https://en.wikipedia.org/wiki/O'Hare_International_Airport,"CHI, Orchard Place"
+26535,VHHH,large_airport,Hong Kong International Airport,22.308901,113.915001,28,AS,HK,HK-NT,Islands,yes,VHHH,HKG,,http://www.hongkongairport.com/,https://en.wikipedia.org/wiki/Hong_Kong_International_Airport,"Chek Lap Kok Airport, äÊ?ÇÒ˝ä??ë??Üˇ?"
+24825,TE17,small_airport,Heathrow Airport,31.438513,-97.145842,525,NA,US,US-TX,Robinson,no,TE17,,TE17,,,
+26555,VIDP,large_airport,Indira Gandhi International Airport,28.55563,77.09519,777,AS,IN,IN-DL,New Delhi,yes,VIDP,DEL,,http://www.newdelhiairport.in/,https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport,Palam Air Force Station
+3631,KLAS,large_airport,Harry Reid International Airport,36.083361,-115.151817,2181,NA,US,US-NV,Las Vegas,yes,KLAS,LAS,LAS,https://www.harryreidairport.com/,https://en.wikipedia.org/wiki/Harry_Reid_International_Airport,McCarran International Airport
+2513,EHAM,large_airport,Amsterdam Airport Schiphol,52.308601,4.76389,-11,EU,NL,NL-NH,Amsterdam,yes,EHAM,AMS,,http://www.schiphol.nl/,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,
+3685,KMIA,large_airport,Miami International Airport,25.79319954,-80.29060364,8,NA,US,US-FL,Miami,yes,KMIA,MIA,MIA,http://www.miami-airport.com/,https://en.wikipedia.org/wiki/Miami_International_Airport,"MFW, South Florida"
+3670,KMCO,large_airport,Orlando International Airport,28.42939949,-81.30899811,96,NA,US,US-FL,Orlando,yes,KMCO,MCO,MCO,http://www.orlandoairports.net/,https://en.wikipedia.org/wiki/Orlando_International_Airport,"Disney World,Epcot Center"
+2212,EDDF,large_airport,Frankfurt Airport,50.036521,8.561268,364,EU,DE,DE-HE,Frankfurt am Main,yes,EDDF,FRA,,http://www.frankfurt-airport.de/,https://en.wikipedia.org/wiki/Frankfurt_Airport,"EDAF, Frankfurt am Main, Frankfurt Main, Rhein-Main Air Base, Zeppelinheim"
+3457,KCLT,large_airport,Charlotte Douglas International Airport,35.2140007,-80.94309998,748,NA,US,US-NC,Charlotte,yes,KCLT,CLT,CLT,http://www.charlotteairport.com/,https://en.wikipedia.org/wiki/Charlotte/Douglas_International_Airport,
+3772,KPHX,large_airport,Phoenix Sky Harbor International Airport,33.435302,-112.005905,1135,NA,US,US-AZ,Phoenix,yes,KPHX,PHX,PHX,http://phoenix.gov/skyharborairport/,https://en.wikipedia.org/wiki/Phoenix_Sky_Harbor_International_Airport,
+3521,KEWR,large_airport,Newark Liberty International Airport,40.692501,-74.168701,18,NA,US,US-NJ,Newark,yes,KEWR,EWR,EWR,http://www.panynj.gov/CommutingTravel/airports/html/newarkliberty.html,https://en.wikipedia.org/wiki/Newark_Liberty_International_Airport,"Manhattan, New York City, NYC"
+3878,KSFO,large_airport,San Francisco International Airport,37.61899948,-122.375,13,NA,US,US-CA,San Francisco,yes,KSFO,SFO,SFO,http://www.flysfo.com/,https://en.wikipedia.org/wiki/San_Francisco_International_Airport,"QSF, QBA"
+3408,KBIL,medium_airport,Billings Logan International Airport,45.807701,-108.542999,3652,NA,US,US-MT,Billings,yes,KBIL,BIL,BIL,,https://en.wikipedia.org/wiki/Billings_Logan_International_Airport,
+44686,OTHH,large_airport,Hamad International Airport,25.273056,51.608056,13,AS,QA,QA-DA,Doha,yes,OTHH,DOH,,http://dohahamadairport.com/,https://en.wikipedia.org/wiki/Hamad_International_Airport,New Doha International Airport
+2429,EGKK,large_airport,London Gatwick Airport,51.148102,-0.190278,202,EU,GB,GB-ENG,London,yes,EGKK,LGW,,http://www.gatwickairport.com/,https://en.wikipedia.org/wiki/Gatwick_Airport,"LON, Crawley, Charlwood"
+26887,WSSS,large_airport,Singapore Changi Airport,1.35019,103.994003,22,AS,SG,SG-04,Singapore,yes,WSSS,SIN,,http://www.changiairport.com/,https://en.wikipedia.org/wiki/Singapore_Changi_Airport,RAF Changi
+2218,EDDM,large_airport,Munich Airport,48.353802,11.7861,1487,EU,DE,DE-BY,Munich,yes,EDDM,MUC,,http://www.munich-airport.com/,https://en.wikipedia.org/wiki/Munich_Airport,"Franz Josef Strauss Airport, Flughafen M?¨nchen Franz Josef Strau??"
+3632,KLAX,large_airport,Los Angeles International Airport,33.942501,-118.407997,125,NA,US,US-CA,Los Angeles,yes,KLAX,LAX,LAX,https://www.flylax.com/,https://en.wikipedia.org/wiki/Los_Angeles_International_Airport,
+5528,RCTP,large_airport,Taiwan Taoyuan International Airport,25.0777,121.233002,106,AS,TW,TW-TAO,Taoyuan (Dayuan),yes,RCTP,TPE,,http://www.taoyuan-airport.com/,https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4,"Taiwan Taoyuan International Airport, ä?ßáÅúë≠üÜ??Ü??Ç??ë??Üˇ?"
+27194,ZGGG,large_airport,Guangzhou Baiyun International Airport,23.392401,113.299004,50,AS,CN,CN-44,Guangzhou (Huadu),yes,ZGGG,CAN,,http://www.baiyunairport.com/english/index.jsp,https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport,
+5235,OMDB,large_airport,Dubai International Airport,25.25279999,55.36439896,62,AS,AE,AE-DU,Dubai,yes,OMDB,DXB,,http://www.dubaiairport.com/dia/english/home/,https://en.wikipedia.org/wiki/Dubai_International_Airport,???˙???Ò ?????? ????????????É??
+27221,ZSNJ,large_airport,Nanjing Lukou International Airport,31.735032,118.865949,49,AS,CN,CN-32,Nanjing,yes,ZSNJ,NKG,,,https://en.wikipedia.org/wiki/Nanjing_Lukou_International_Airport,
+28118,VTBS,large_airport,Suvarnabhumi Airport,13.68109989,100.7470016,5,AS,TH,TH-10,Bangkok,yes,VTBS,BKK,,,https://en.wikipedia.org/wiki/Suvarnabhumi_Airport,
+27198,ZGSZ,large_airport,Shenzhen Bao'an International Airport,22.639299,113.810997,13,AS,CN,CN-44,Shenzhen (Bao'an),yes,ZGSZ,SZX,,http://eng.szairport.com/,https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport,"Baoan, Huangtian Airport"
+27228,ZUCK,large_airport,Chongqing Jiangbei International Airport,29.712254,106.651895,1365,AS,CN,CN-50,Chongqing,yes,ZUCK,CKG,,,https://en.wikipedia.org/wiki/Chongqing_Jiangbei_International_Airport,
+27225,ZSSS,large_airport,Shanghai Hongqiao International Airport,31.198104,121.33426,10,AS,CN,CN-31,Shanghai (Minhang),yes,ZSSS,SHA,,,https://en.wikipedia.org/wiki/Shanghai_Hongqiao_International_Airport,
+27188,ZBAA,large_airport,Beijing Capital International Airport,40.08010101,116.5849991,116,AS,CN,CN-11,Beijing,yes,ZBAA,PEK,,http://en.bcia.com.cn/,https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport,"BJS, Bejing, Peking, Olympics"
+27214,ZPPP,large_airport,Kunming Changshui International Airport,25.110313,102.936743,6903,AS,CN,CN-53,Kunming,yes,ZPPP,KMG,,,https://en.wikipedia.org/wiki/Kunming_Changshui_International_Airport,
+27223,ZSPD,large_airport,Shanghai Pudong International Airport,31.1434,121.805,13,AS,CN,CN-31,Shanghai (Pudong),yes,ZSPD,PVG,,https://www.shanghaiairport.com/index.html,https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport,
+26396,UUEE,large_airport,Sheremetyevo International Airport,55.972599,37.4146,622,EU,RU,RU-MOS,Moscow,yes,UUEE,SVO,,http://www.svo.aero/en/,https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport,"MOW, ???Ê????•ü?´?¯•??????´•??? ?¯•ç•????®??•?•? ???Ê•??Ê?¨?Ê•?•??Ê?˝??, svo, sheremetyevo, moscow"
+27205,ZLXY,large_airport,Xi'an Xianyang International Airport,34.447102,108.751999,1572,AS,CN,CN-61,Xianyang (Weicheng),yes,ZLXY,XIY,,http://www.xxia.com/,https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport,"äù®Ü??Ü??Ç??Ü?´Ç??ë?ßÜ?ß, Xian"
+27218,ZSHC,large_airport,Hangzhou Xiaoshan International Airport,30.23609,120.428865,23,AS,CN,CN-33,Hangzhou,yes,ZSHC,HGH,,http://www.hzairport.com/,https://en.wikipedia.org/wiki/Hangzhou_Xiaoshan_International_Airport,"Hang Zhou, ëù?Ü˙?äê?ÜÒÒÜ?´Ç??ë?ßÜ?ß"
+5639,RKPC,large_airport,Jeju International Airport,33.512058,126.492548,118,AS,KR,KR-49,Jeju City,yes,RKPC,CJU,,,https://en.wikipedia.org/wiki/Jeju_International_Airport,
+330820,ZBAD,large_airport,Beijing Daxing International Airport,39.509945,116.41092,98,AS,CN,CN-11,Beijing,yes,ZBAD,PKX,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,
+2212,EDDF,large_airport,Frankfurt Airport,50.036521,8.561268,364,EU,DE,DE-HE,Frankfurt am Main,yes,EDDF,FRA,,http://www.frankfurt-airport.de/,https://en.wikipedia.org/wiki/Frankfurt_Airport,"EDAF, Frankfurt am Main, Frankfurt Main, Rhein-Main Air Base, Zeppelinheim"
+5656,RKSS,large_airport,Gimpo International Airport,37.5583,126.791,59,AS,KR,KR-11,Seoul,yes,RKSS,GMP,,http://gimpo.airport.co.kr/eng/index.jsp,https://en.wikipedia.org/wiki/Gimpo_International_Airport,
+3887,KSLC,large_airport,Salt Lake City International Airport,40.785749,-111.979746,4227,NA,US,US-UT,Salt Lake City,yes,KSLC,SLC,SLC,,https://en.wikipedia.org/wiki/Salt_Lake_City_International_Airport,
+27195,ZGHA,large_airport,Changsha Huanghua International Airport,28.189199,113.220001,217,AS,CN,CN-43,Changsha (Changsha),yes,ZGHA,CSX,,,https://en.wikipedia.org/wiki/Changsha_Huanghua_International_Airport,Ç?®ë˝?ÇØ?ä?ÒÜ?´Ç??ë?ßÜ?ß
+27230,ZUUU,large_airport,Chengdu Shuangliu International Airport,30.558257,103.945966,1625,AS,CN,CN-51,Chengdu (Shuangliu),yes,ZUUU,CTU,,http://www.cdairport.com/cdairport/en_front/index.jsp,https://en.wikipedia.org/wiki/Chengdu_Shuangliu_International_Airport,ë?êÇü´Üè?ëÊÅÜ?´Ç??ë?ßÜ?ß
+27215,ZSAM,large_airport,Xiamen Gaoqi International Airport,24.54400063,118.1279984,59,AS,CN,CN-35,Xiamen,yes,ZSAM,XMN,,http://www.xiagc.com.cn/enweb/,https://en.wikipedia.org/wiki/Xiamen_Gaoqi_International_Airport,Ü??Ç??ÇÆ?Ü??Ü?´Ç??ë?ßÜ?ß
+27229,ZUGY,large_airport,Guiyang Longdongbao International Airport,26.541466,106.803331,3736,AS,CN,CN-52,Guiyang (Nanming),yes,ZUGY,KWE,,,https://en.wikipedia.org/wiki/Guiyang_Longdongbao_Airport,"Kaiyang Guiyang Air Base, Guiyang Air Base"
+27201,ZJHK,large_airport,Haikou Meilan International Airport,19.9349,110.459,75,AS,CN,CN-46,Haikou (Meilan),yes,ZJHK,HAK,,,https://en.wikipedia.org/wiki/Haikou_Meilan_International_Airport,ZGHK
+26700,VVNB,large_airport,Noi Bai International Airport,21.221201,105.806999,39,AS,VN,VN-RRD,Hanoi (Soc Son),yes,VVNB,HAN,,,https://en.wikipedia.org/wiki/Noi_Bai_International_Airport,"Noibai Airport, S?õn bay Qu†Ø?c t†ß® N†Ø?i B?ˇi"
+26874,WMKK,large_airport,Kuala Lumpur International Airport,2.74558,101.709999,69,AS,MY,MY-10,Sepang,yes,WMKK,KUL,,,https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport,KLIA
+5689,RPLL,large_airport,Ninoy Aquino International Airport,14.5086,121.019997,75,AS,PH,PH-00,Manila,yes,RPLL,MNL,,,https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport,Manila International Airport
+5531,RJAA,large_airport,Narita International Airport,35.764702,140.386002,141,AS,JP,JP-12,Narita,yes,RJAA,NRT,,,https://en.wikipedia.org/wiki/Narita_International_Airport,"TYO, Tokyo, Tokyo Narita Airport, New Tokyo International Airport"
+,,,,,,,,,,,,,,,,,
+Additional,,,,,,,,,,,,,,,,,
+,,1,Josep Tarradellas Barcelona-El Prat Airport,,,,,,,,,,,,,,
+,,2,Istanbul Airport,,,,,,,,,,,,,,
+,,3,Doha International Airport (DIA),,,,,,,,,,,,,,
+,,4,Las Vegas International Airport ,,,,,,,,,,,,,,
+,,5,Detroit Metropolitan Wayne County Airport,,,,,,,,,,,,,,
+,,6,Daniel K. Inouye International Airport ,,,,,,,,,,,,,,
+,,7,Antalya Airport - Turkiye,,,,,,,,,,,,,,
+,,8,Memphis International Airport,,,,,,,,,,,,,,
+,,9,Louisville International Airport,,,,,,,,,,,,,,
+,,10,Ted Stevens Anchorage International Airport,,,,,,,,,,,,,,
+,,11,Ronald Reagan Washington National Airport,,,,,,,,,,,,,,
+,,12,Midway International Airport,,,,,,,,,,,,,,
+,,13,LaGuardia Airport,,,,,,,,,,,,,,
+,,14,Hartsfield?Jackson Atlanta International Airport,,,,,,,,,,,,,,
+,,15,Madrid Barajas Airport,,,,,,,,,,,,,,
+,,16,Istanbul Sabiha Gîkáen International Airport,,,,,,,,,,,,,,
+,,17,Tokyo Haneda Airport,,,,,,,,,,,,,,
+,,18,Charles de Gaulle Airport,,,,,,,,,,,,,,
+,,19,Dallas/Fort Worth International Airport,,,,,,,,,,,,,,
+,,20,Seoul Incheon International Airport,,,,,,,,,,,,,,
+,,21,John F. Kennedy International Airport,,,,,,,,,,,,,,
+,,22,Soekarno?Hatta International Airport,,,,,,,,,,,,,,
+,,23,Barcelona?El Prat Airport,,,,,,,,,,,,,,
+,,24,Seattle?Tacoma International Airport,,,,,,,,,,,,,,
+,,25,Toronto Pearson International Airport,,,,,,,,,,,,,,
+,,26,Chhatrapati Shivaji Maharaj International Airport,,,,,,,,,,,,,,
+,,27,George Bush Intercontinental Airport,,,,,,,,,,,,,,
+,,28,Sydney Kingsford-Smith Airport,,,,,,,,,,,,,,
+,,29,"Rome?Fiumicino International Airport ""Leonardo da Vinci""",,,,,,,,,,,,,,
+,,30,Minneapolis/St Paul International Airport,,,,,,,,,,,,,,
