@@ -4,10 +4,8 @@ import streamlit.components.v1 as stc
 # File Processing Pkgs
 import pandas as pd
 from PIL import Image 
-from PyPDF2 import PdfFileReader
-import pdfplumber
 import os as os
-
+import docx2txt
 
 def read_pdf(file):
 	pdfReader = PdfFileReader(file)
@@ -108,12 +106,6 @@ def main():
 						    st.write(page.extract_text())
 					except:
 						st.write("None")
-					    
-					
-				elif docx_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
-				# Use the right file processor ( Docx,Docx2Text,etc)
-					raw_text = docx2txt.process(docx_file) # Parse in the uploadFile Class directory
-					st.write(raw_text)
 
 				with open(os.path.join("Documentations", docx_file.name),"wb") as f:
 					f.write(docx_file.getbuffer())
