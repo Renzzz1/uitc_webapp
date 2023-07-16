@@ -5,7 +5,6 @@ import streamlit.components.v1 as stc
 import pandas as pd
 from PIL import Image 
 import os as os
-import docx2txt
 
 def read_pdf(file):
 	pdfReader = PdfFileReader(file)
